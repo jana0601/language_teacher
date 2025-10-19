@@ -1,6 +1,7 @@
 # Language Teacher Application
 
 A web-based language learning application that allows students to practice conversations in their target language and receive detailed evaluations with specific mistake corrections using free open-source AI models.
+![Interface Screenshot](https://github.com/jana0601/language_teacher/blob/main/interface.jpg?raw=true)
 
 ## Features
 
