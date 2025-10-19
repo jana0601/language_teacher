@@ -1,0 +1,6 @@
+[15:10:02] INFO: Starting Language Teacher Setup
+[15:10:02] INFO: ==================================================
+[15:10:02] INFO: Checking if Ollama is installed...
+[15:10:02] ERROR: ERROR: Ollama is not installed or not in PATH
+[15:10:02] ERROR: ERROR: Setup failed: Ollama is not installed
+[15:10:02] ERROR: Please install Ollama from: https://ollama.ai
